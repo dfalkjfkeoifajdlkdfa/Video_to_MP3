@@ -18,11 +18,11 @@ The script uses `yt-dlp` and FFmpeg to fetch the best available audio and conver
 1. Install yt-dlp:
    pip install yt-dlp
    
-3. Install FFmpeg
+3. Install FFmpeg:
    /opt/homebrew/bin/ffmpeg
    (Change the path if needed)
    
-4. How to use?
+4. How to use:
    Paste one or more links into "urls" list
 
 All files will be saved in downloads folder
